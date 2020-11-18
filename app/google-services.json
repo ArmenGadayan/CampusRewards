@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "357715884246",
+    "firebase_url": "https://campusplusmore.firebaseio.com",
+    "project_id": "campusplusmore",
+    "storage_bucket": "campusplusmore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357715884246:android:951aa9885a0cf81861f177",
+        "android_client_info": {
+          "package_name": "com.example.majorx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357715884246-p53fornl645t0sdsbfji4hclh1hul79u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.majorx",
+            "certificate_hash": "5346252f2bebcc72ce5e5ae8b7202dc9bf875267"
+          }
+        },
+        {
+          "client_id": "357715884246-i2vflr26qmkp07e9hb5qgeoh0di5o7d6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ9ne0cUiKcIm9o8SBrHlAKat1oDLeYgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357715884246-i2vflr26qmkp07e9hb5qgeoh0di5o7d6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
